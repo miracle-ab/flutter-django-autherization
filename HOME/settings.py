@@ -21,12 +21,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ym^t_+n=%245x1yzc^gdpgb8coww*rjmc9xs(^30iu-k3u7sb)'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['flutter-app-django.herokuapp.com', '127.0.0.1']
+
 
 
 # Application definition
