@@ -1,1 +1,1 @@
-<h1>"flutter-django-autherization"</h1>
+<h1>"drf-autherization"</h1>
